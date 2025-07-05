@@ -4,6 +4,16 @@ How to Safely Download and Install Quicken
 
 Quicken is one of the most trusted tools for personal finance management. Whether you want to track your budget, monitor investments, or manage bills, Quicken offers a powerful set of features to keep your finances on track. But before you can take advantage of everything Quicken has to offer, you need to install it properly.
 
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://quickenhelphub.pages.dev/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Download Quicken Now
+        </a>
+    </div>
+
+ 
+
 What is Quicken?
 ================
 
