@@ -7,7 +7,7 @@ Quicken is one of the most trusted tools for personal finance management. Whethe
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://quickenhelphub.pages.dev/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?r4Ekguug57HQzD2JRcbL1owTjJMoek8wqIGQDNhXh6P4BNNtMqNHDuWMdPqyWDMdsbU" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Quicken Now
         </a>
     </div>
